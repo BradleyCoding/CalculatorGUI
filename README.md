@@ -1,3 +1,3 @@
-Calculator GUI for pracitce
+Calculator GUI using wxWidgets for practice
 
-cba to make memory buttons work so they are useless
+Memory Buttons do not work
